@@ -1,0 +1,35 @@
+{
+  "1536x864@96": {
+    "key": "1536x864@96",
+    "screen": {
+      "width": 1536,
+      "height": 864,
+      "dpi": 96.09458128078816
+    },
+    "figure": {
+      "size_inches": [
+        6.473,
+        6.473
+      ],
+      "dpi": 96
+    },
+    "style": {
+      "lw_inner": 0.65,
+      "lw_outer": 0.81,
+      "lw_ripple": 0.89,
+      "title_fontsize": 14
+    },
+    "geometry": {
+      "inner_points": 180,
+      "outer_points": 100,
+      "irregular_ripples": 4
+    },
+    "markers": {
+      "center_dot_size": 27
+    },
+    "animation": {
+      "interval_ms": 62,
+      "frames_per_data": 20
+    }
+  }
+}

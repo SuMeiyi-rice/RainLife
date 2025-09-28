@@ -1,0 +1,19 @@
+# requirements.txt for SunLife Rain Visualization Project
+# Core scientific and plotting libraries
+matplotlib
+pandas
+numpy
+
+# Jupyter notebook support (for notebooks/ directory)
+jupyter
+
+# Data visualization enhancement (optional, used in some scripts)
+seaborn
+
+# If you use additional libraries in src/ (e.g., for OpenGL, image processing, etc.), add them here:
+# Pillow
+# PyOpenGL
+# fonttools
+# ...
+
+# To update: Review all imports in src/*.py and notebooks/*.ipynb, and add any missing packages here.
